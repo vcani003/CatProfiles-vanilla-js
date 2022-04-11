@@ -1,4 +1,4 @@
-# CatProfiles-vanilla-js
+# My Cat's Profiles Using Vanilla JS!
 Example to start up a vanilla JS web app (ft. my cats)
 
 
