@@ -1,0 +1,21 @@
+dl {
+  list-style: none;
+  padding-inline-start: 0;
+}
+dt {
+  /* margin: 16px 8px; */
+  /* border: 1px solid gray; */
+  /* padding: 8px; */
+}
+.cat-name-header {
+  font-size: x-large;
+}
+img {
+  width: 150px;
+  background: white;
+}
+
+.profile-container {
+  display: flex;
+  margin: 16px 0px;
+}
